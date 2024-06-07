@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Usage: ./wakeonlan.py 74:56:3c:71:82:01
+# Test and working
 
 import socket
 import struct
